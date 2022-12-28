@@ -35,16 +35,16 @@ using ReactJS, StyledComponents, and ThreeJs.
   <p align="top">NodeJS</p>
   <img src="https://user-images.githubusercontent.com/69809494/209856679-a403fa48-7ec3-419e-8898-31aac738d1a5.png" height="100"/>
   </th>
+  <th>
+  <p align="top">Git</p>
+  <img src="https://user-images.githubusercontent.com/69809494/209862073-c7c1d509-d349-46a1-b00c-a618be780cb3.png" height="100"/>
+  </th>
  </tr>
  
   <tr>
   <th>
   <p align="top">Styled-Components</p>
   <img src="https://user-images.githubusercontent.com/69809494/209862245-cef47bba-5d4f-4cf6-8ca9-095fb1903de7.png" height="100"/>
-  </th>
-  <th>
-  <p align="top">Git</p>
-  <img src="https://user-images.githubusercontent.com/69809494/209862073-c7c1d509-d349-46a1-b00c-a618be780cb3.png" height="100"/>
   </th>
   <th>
   <p align="top">Npm</p>
