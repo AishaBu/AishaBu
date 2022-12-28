@@ -51,12 +51,15 @@ using ReactJS, StyledComponents, and ThreeJs.
   <img src="https://user-images.githubusercontent.com/69809494/209862740-af9bc237-1db4-4735-a67d-ade2ba3e6a76.png" height="100"/>
   </th>
    <th>
+  <p align="top">Prettier</p>
+  <img src="https://user-images.githubusercontent.com/69809494/209865877-12a65699-b28e-444e-855a-c8e7c81e81b5.png" height="100"/>
+  </th>
+   <th>
   <p align="top">Figma</p>
   <img src="https://user-images.githubusercontent.com/69809494/209864442-684f5cf6-17fc-4f84-b1b6-47d4abd67a23.png" height="100"/>
   </th>
 </tr>
 </table>
-
 
 
 
