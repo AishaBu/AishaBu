@@ -38,8 +38,13 @@ using ReactJS, StyledComponents, and ThreeJs.
   <p align="center">Styled-Components</p>
   <img src="https://user-images.githubusercontent.com/69809494/209861092-1aa6bdc5-9733-4bb1-8e3f-96d0e70ea7bc.png" height="90"/>
   </th>
+  <th>
+  <p align="center">Git</p>
+  <img src="https://user-images.githubusercontent.com/69809494/209862073-c7c1d509-d349-46a1-b00c-a618be780cb3.png" height="100"/>
+  </th>
 </tr>
 </table>
+
 
 
 
