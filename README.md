@@ -35,6 +35,9 @@ using ReactJS, StyledComponents, and ThreeJs.
   <p align="top">NodeJS</p>
   <img src="https://user-images.githubusercontent.com/69809494/209856679-a403fa48-7ec3-419e-8898-31aac738d1a5.png" height="100"/>
   </th>
+ </tr>
+ 
+  <tr>
   <th>
   <p align="top">Styled-Components</p>
   <img src="https://user-images.githubusercontent.com/69809494/209862245-cef47bba-5d4f-4cf6-8ca9-095fb1903de7.png" height="100"/>
@@ -46,6 +49,10 @@ using ReactJS, StyledComponents, and ThreeJs.
   <th>
   <p align="top">Npm</p>
   <img src="https://user-images.githubusercontent.com/69809494/209862740-af9bc237-1db4-4735-a67d-ade2ba3e6a76.png" height="100"/>
+  </th>
+   <th>
+  <p align="top">Figma</p>
+  <img src="https://user-images.githubusercontent.com/69809494/209864442-684f5cf6-17fc-4f84-b1b6-47d4abd67a23.png" height="100"/>
   </th>
 </tr>
 </table>
