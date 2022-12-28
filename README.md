@@ -34,6 +34,10 @@ using ReactJS, StyledComponents, and ThreeJs.
   <p align="center">NodeJS</p>
   <img src="https://user-images.githubusercontent.com/69809494/209856679-a403fa48-7ec3-419e-8898-31aac738d1a5.png" height="100"/>
   </th>
+  <th>
+  <p align="center">Styled-Components</p>
+  <img src="https://user-images.githubusercontent.com/69809494/209861092-1aa6bdc5-9733-4bb1-8e3f-96d0e70ea7bc.png" height="90"/>
+  </th>
 </tr>
 </table>
 
