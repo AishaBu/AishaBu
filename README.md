@@ -37,7 +37,7 @@ using ReactJS, StyledComponents, and ThreeJs.
   </th>
   <th>
   <p align="top">Styled-Components</p>
-  <img src="https://user-images.githubusercontent.com/69809494/209862245-cef47bba-5d4f-4cf6-8ca9-095fb1903de7.png" height="95" width="50"/>
+  <img src="https://user-images.githubusercontent.com/69809494/209862245-cef47bba-5d4f-4cf6-8ca9-095fb1903de7.png" height="95"/>
   </th>
   <th>
   <p align="top">Git</p>
