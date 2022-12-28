@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### My name is Aisha, I am an aspiring Software Developer. I am currently learning tools geared toward Frontend Development such as HTML, CSS,and JavaScript, and I am looking to expand my knowledge toward Full Stack Development with the MERN Stack. 
+My name is Aisha, I am an aspiring Software Developer. I am currently learning languages geared toward Frontend Development such as HTML, CSS, JavaScript,and React,and I am looking to expand my knowledge toward Full Stack Development with the MERN Stack. 
 
 You can find my current projects [here](https://github.com/AishaBu?tab=repositories)
 * I am currently working on a map visualization project 
