@@ -59,6 +59,10 @@ using ReactJS, StyledComponents, and ThreeJs.
   <img src="https://user-images.githubusercontent.com/69809494/209866242-6898221e-5fc8-460f-97a4-1b7cae0e8859.png" height="100"/>
   </th>
    <th>
+     <p align="top">Webpack</p>
+  <img src="https://user-images.githubusercontent.com/69809494/209866495-91160793-328b-46d5-ab84-6038dc1c3b4f.png" height="100"/>
+  </th>
+   <th>
   <p align="top">Figma</p>
   <img src="https://user-images.githubusercontent.com/69809494/209864442-684f5cf6-17fc-4f84-b1b6-47d4abd67a23.png" height="100"/>
   </th>
