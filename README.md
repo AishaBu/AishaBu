@@ -4,7 +4,7 @@ My name is Aisha, I am an aspiring Software Developer. I am currently learning l
 
 * You can find my current projects [here](https://github.com/AishaBu?tab=repositories).
 
-* I am currently working on a map visualization project 
+* I am currently working on a map visualization project<br>
 using ReactJS, StyledComponents, and ThreeJs.
 
 * You can reach me at aisha.busari@gmail.com.
