@@ -8,7 +8,10 @@ using ReactJS, StyledComponents, and ThreeJs.
 
 * You can reach me at aisha.busari@gmail.com.
 
-## Languages
+
+ 
+ ## <img src="https://user-images.githubusercontent.com/69809494/209855504-549c87dc-b830-490e-a4db-7ea01b553a74.png" height="30"/> Technologies and Tools 
+ 
 <table>
 <tr>
   <th>
@@ -27,11 +30,12 @@ using ReactJS, StyledComponents, and ThreeJs.
   <p align="center">ReactJS</p>
   <img src="https://user-images.githubusercontent.com/69809494/209854743-39aba535-f64a-4101-a468-4d10e8cdb9f8.png" height="100"/>
   </th>
+   <th>
+  <p align="center">NodeJS</p>
+  <img src="https://user-images.githubusercontent.com/69809494/209856679-a403fa48-7ec3-419e-8898-31aac738d1a5.png" height="100"/>
+  </th>
 </tr>
 </table>
-
-
-
 
 
 
