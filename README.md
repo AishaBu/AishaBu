@@ -31,13 +31,13 @@ using HTML5, CSS3, JavaScript, and ThreeJs.
   <p align="top">Git</p>
   <img src="https://user-images.githubusercontent.com/69809494/209862073-c7c1d509-d349-46a1-b00c-a618be780cb3.png" height="100"/>
   </th>
- </tr>
- 
-  <tr>
-  <th>
+   <th>
   <p align="top">Npm</p>
   <img src="https://user-images.githubusercontent.com/69809494/209862740-af9bc237-1db4-4735-a67d-ade2ba3e6a76.png" height="100"/>
   </th>
+ </tr>
+ 
+  <tr>
    <th>
   <p align="top">Prettier</p>
   <img src="https://user-images.githubusercontent.com/69809494/209865877-12a65699-b28e-444e-855a-c8e7c81e81b5.png" height="100"/>
