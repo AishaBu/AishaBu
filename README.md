@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-My name is Aisha, I am an aspiring Software Developer. I am currently learning languages geared toward Frontend Development such as HTML, CSS, JavaScript, and React. I am looking to expand my knowledge toward Full Stack Development with the MERN Stack. 
+My name is Aisha, I am an aspiring Software Developer. I am currently learning languages geared toward Frontend Development such as HTML5,CSS3, and JavaScript. I am looking to expand my knowledge toward Full Stack Development with the MERN Stack. 
 
 * You can find my current projects [here](https://github.com/AishaBu?tab=repositories).
 
 * I am currently working on a map visualization project<br>
-using ReactJS, StyledComponents, and ThreeJs.
+using HTML5, CSS3, JavaScript, and ThreeJs.
 
 * You can reach me at aisha.busari@gmail.com.
 
@@ -28,25 +28,12 @@ using ReactJS, StyledComponents, and ThreeJs.
   <img src="https://user-images.githubusercontent.com/69809494/209853149-48a2db6a-f680-4a1c-b800-83a7cdb60bd5.png" height="100"/>
   </th>
   <th>
-  <p align="top">ReactJS</p>
-  <img src="https://user-images.githubusercontent.com/69809494/209854743-39aba535-f64a-4101-a468-4d10e8cdb9f8.png" height="100"/>
-  </th>
-   <th>
-  <p align="top">NodeJS</p>
-  <img src="https://user-images.githubusercontent.com/69809494/209856679-a403fa48-7ec3-419e-8898-31aac738d1a5.png" height="100"/>
-  </th>
-  <th>
   <p align="top">Git</p>
   <img src="https://user-images.githubusercontent.com/69809494/209862073-c7c1d509-d349-46a1-b00c-a618be780cb3.png" height="100"/>
   </th>
  </tr>
  
   <tr>
-  <th>
-  <p align="top">Styled-Components</p>
-  <img src="https://user-images.githubusercontent.com/69809494/209862245-cef47bba-5d4f-4cf6-8ca9-095fb1903de7.png" height="100"/>
-  </th>
-  <th>
   <p align="top">Npm</p>
   <img src="https://user-images.githubusercontent.com/69809494/209862740-af9bc237-1db4-4735-a67d-ade2ba3e6a76.png" height="100"/>
   </th>
