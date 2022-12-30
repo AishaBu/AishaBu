@@ -34,6 +34,7 @@ using HTML5, CSS3, JavaScript, and ThreeJs.
  </tr>
  
   <tr>
+  <th>
   <p align="top">Npm</p>
   <img src="https://user-images.githubusercontent.com/69809494/209862740-af9bc237-1db4-4735-a67d-ade2ba3e6a76.png" height="100"/>
   </th>
