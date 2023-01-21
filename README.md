@@ -5,7 +5,7 @@ My name is Aisha, I am an aspiring Software Developer. I am currently learning l
 * You can find my current projects [here](https://github.com/AishaBu?tab=repositories).
 
 * I am currently working on a map visualization project<br>
-using HTML5, CSS3, JavaScript, and Mapbox GL JS 🙂.
+using HTML5, CSS3, JavaScript, and ArcGIS Maps SDK for JavaScript(formerly ArcGIS API for JavaScript) 🙂.
 
 * You can reach me at aisha.busari@gmail.com.
 
