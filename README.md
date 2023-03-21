@@ -53,7 +53,7 @@ My name is Aisha, I am an aspiring Software Developer. I am currently learning l
   </th>
    <th>
    <p align="top">Leaflet JS</p>
-    <img src="https://user-images.githubusercontent.com/69809494/226505975-4d57029d-4335-4676-b50a-493019b9e1d6.png" height="100px" />
+    <img src="https://user-images.githubusercontent.com/69809494/226506908-3fd45416-1051-47c5-a5c6-d4dd3e14853a.png" height="100" />
   </th>
 </tr>
 </table>
