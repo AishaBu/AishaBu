@@ -67,8 +67,6 @@ My name is Aisha, I am an aspiring Software Developer. I am currently learning l
 
 
 
-
-
 <!--
 **AishaBu/AishaBu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
