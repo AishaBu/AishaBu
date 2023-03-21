@@ -51,6 +51,10 @@ My name is Aisha, I am an aspiring Software Developer. I am currently learning l
   <p align="top">Figma</p>
   <img src="https://user-images.githubusercontent.com/69809494/209864442-684f5cf6-17fc-4f84-b1b6-47d4abd67a23.png" height="100"/>
   </th>
+   <th>
+   <p align="top">Leaflet JS</p>
+    <img src="https://user-images.githubusercontent.com/69809494/226505975-4d57029d-4335-4676-b50a-493019b9e1d6.png" height="100px" />
+  </th>
 </tr>
 </table>
 
