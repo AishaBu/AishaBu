@@ -55,9 +55,9 @@ My name is Aisha, I am an aspiring Software Developer. I am currently learning l
    <p align="top">Leaflet JS</p>
     <img src="https://user-images.githubusercontent.com/69809494/226506908-3fd45416-1051-47c5-a5c6-d4dd3e14853a.png" height="100" />
   </th>
-   <th>
+    <th>
    <p align="top">Netlify</p>
-    <img src="https://user-images.githubusercontent.com/69809494/226725106-1ffa2ece-ed46-42cd-93b6-b1630a8584c3.png" height="100" />
+    <img src="https://user-images.githubusercontent.com/69809494/226725106-1ffa2ece-ed46-42cd-93b6-b1630a8584c3.png" height="90" />
   </th>
 </tr>
 </table>
