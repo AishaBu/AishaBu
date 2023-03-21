@@ -10,7 +10,7 @@ My name is Aisha, I am an aspiring Software Developer. I am currently learning l
  
  ## <img src="https://user-images.githubusercontent.com/69809494/209855504-549c87dc-b830-490e-a4db-7ea01b553a74.png" height="30"/> Technologies and Tools 
  
-<table>
+<table cellpadding="0" cellspacing="0">
 <tr>
   <th>
     <p align="top">HTML5</p>
