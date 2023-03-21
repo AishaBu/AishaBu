@@ -33,9 +33,7 @@ My name is Aisha, I am an aspiring Software Developer. I am currently learning l
   <img src="https://user-images.githubusercontent.com/69809494/209862740-af9bc237-1db4-4735-a67d-ade2ba3e6a76.png" height="100"/>
   </th>
  </tr>
- 
- <br>
- 
+
   <tr>
    <th>
   <p align="top">Prettier</p>
