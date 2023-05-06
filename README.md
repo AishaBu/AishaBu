@@ -2,7 +2,7 @@
 
 My name is Aisha, I am currently learning languages geared toward Frontend Development such as HTML5,CSS3, and JavaScript. My future goals are to expand my programming knowledge and skills toward Full Stack Development. 
 
-* Currently learning ReactJS and Styled Components.
+* Currently learning ReactJS.
 
 * You can find my current projects [here](https://github.com/AishaBu?tab=repositories).
 
