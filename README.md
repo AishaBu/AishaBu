@@ -1,12 +1,7 @@
 ## Hi there 👋
-
-My name is Aisha, I am currently learning languages geared toward Frontend Development such as HTML5,CSS3, and JavaScript. My future goals are to expand my programming knowledge and skills toward Full Stack Development. 
-
 * You can find my current projects [here](https://github.com/AishaBu?tab=repositories).
 
 * You can reach me at aisha.busari@gmail.com.
-
-
  
  ## <img src="https://user-images.githubusercontent.com/69809494/209855504-549c87dc-b830-490e-a4db-7ea01b553a74.png" height="30"/> Technologies and Tools 
  
