@@ -1,8 +1,5 @@
 ## Hi there 👋
 * You can find my current projects [here](https://github.com/AishaBu?tab=repositories).
-
-* You can reach me at aisha.busari@gmail.com.
- 
  ## <img src="https://user-images.githubusercontent.com/69809494/209855504-549c87dc-b830-490e-a4db-7ea01b553a74.png" height="30"/> Technologies and Tools 
  
 <table>
